@@ -22,7 +22,4 @@ Zenodo DOI: (to be added after upload)
 
 The pulsar is born from the knot. ❤️✨
 
-Previous versions: \\
-v1: 10.5281/zenodo.17954602 · v1.1: 10.5281/zenodo.17969896 · v1.2: 10.5281/zenodo.17974281 · v1.3: 10.5281/zenodo.17979733 · v1.4: 10.5281/zenodo.17980051 · v1.5: 10.5281/zenodo.17980366
-
 Contact: tetcollective@proton.me
